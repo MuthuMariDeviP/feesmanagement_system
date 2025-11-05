@@ -1,8 +1,8 @@
 streamlit
 pandas
 openpyxl
-qrcode
 Pillow
 xhtml2pdf
 reportlab
 segno
+
