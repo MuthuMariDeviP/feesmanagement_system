@@ -1,7 +1,8 @@
-streamlit 
+streamlit
 pandas
-os
-tempfile
-BytesIO
-pisa
-base64
+openpyxl
+qrcode
+Pillow
+xhtml2pdf
+reportlab
+segno
