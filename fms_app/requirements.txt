@@ -4,5 +4,5 @@ openpyxl
 Pillow
 xhtml2pdf
 reportlab
-segno
+
 
